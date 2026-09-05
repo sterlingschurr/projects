@@ -1,20 +1,20 @@
-![Project Cover Photo](image.jpg)
+![Project Cover Photo](media/coverimage.jpg)
 # Project Title
 One sentence Project description
 
-# The Problem
+## The Problem
 Describe what prompted this project, why one would want a better solution
 
-# The Solution
-![Concept diagram](image.jpg)
+## The Solution
+![Concept diagram](media/conceptdiagram.jpg)
 How I planned to solve The Problem
 
-# The Execution
-![Wiring diagram](image.jpg)
+## The Execution
+![Wiring diagram](media/wiringdiagram.jpg)
 How the actual construction went, and how it differed from expectations
-![Actual photo of the thing](image.jpg)
+![Actual photo of the thing](media/actualphoto.jpg)
 
-# Next Steps
+## Next Steps
 what I didn't have time to do, how I could improve on this in the future
 
 
