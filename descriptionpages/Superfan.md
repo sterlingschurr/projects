@@ -1,5 +1,6 @@
 ![Project Cover Photo](media/superfancover.jpg)
-# Superior personal comfort using a brushless motor and a custom controller
+# Superfan
+Superior personal comfort using a brushless motor and a custom controller
 
 # The Problem
 Personal fans are weak. They don't move enough air beyond providing a slight comfort, and they aren't useful for any other sort of application. I wanted something stronger.
