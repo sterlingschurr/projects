@@ -16,6 +16,3 @@ How the actual construction went, and how it differed from expectations
 
 ## Next Steps
 what I didn't have time to do, how I could improve on this in the future
-
-
-[Commands to remember when writing](https://www.markdownguide.org/cheat-sheet/)
