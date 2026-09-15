@@ -1,0 +1,15 @@
+title: My Project Showcase
+description: A collection of things I've built
+theme: minima
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
