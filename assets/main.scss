@@ -73,3 +73,10 @@ header a:hover {
   background: var(--color-accent);
   color: white;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+  margin: var(--space-md) 0;
+}
