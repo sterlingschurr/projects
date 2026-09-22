@@ -5,7 +5,7 @@ permalink: /skills/
 ---
 
 # Projects Sorted by Skill
-[Browse everything by date instead →]({{ '/' | relative_url }}# Projects Sorted by Date)
+[Browse by date instead →]({{ '/' | relative_url }}# Projects Sorted by Date)
 
 Click a skill to jump to it:
 
