@@ -58,7 +58,8 @@ header a:hover {
 }
 
 
-.skills a {
+.skills a,
+.skill-nav a {
   display: inline-block;
   font-size: 0.8rem;
   color: var(--color-muted);
@@ -69,13 +70,14 @@ header a:hover {
   margin: 0 0.25rem 0.25rem 0;
 }
 
-.skills a:hover {
+.skills a:hover,
+.skill-nav a:hover {
   background: var(--color-accent);
   color: white;
 }
 
 img {
-  max-width: 100%;
+  max-width: 75%;
   height: auto;
   border-radius: 4px;
   margin: var(--space-md) 0;

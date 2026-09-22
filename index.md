@@ -5,7 +5,9 @@ title: Home
 
 # Sterling's Projects
 
-This site is still under construction, so there are still a few missing sections. Feel free to email me if there's one you'd like updated.
+(This site is still under construction, so there are still a few missing sections. Feel free to email me if there's one you'd like updated.)
+
+Thanks for coming to view my projects! Below is a list of them all sorted from newest to oldest. There's also a link to sort by skill instead.
 
 ![alt text hello there](/assets/images/testimage.jpg)
 

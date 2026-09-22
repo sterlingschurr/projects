@@ -18,7 +18,7 @@ permalink: /skills/
 {% assign all_skills = all_skills | sort %}
 
 <nav class="skill-nav">
-{% for skill in all_skills %}<a href="#{{ skill | slugify }}">{{ skill }}</a> {% endfor %}
+{% for skill in all_skills %}<a href="#{{ skill | slugify }}">{{ skill }}</a>{% endfor %}
 </nav>
 
 {% for skill in all_skills %}
