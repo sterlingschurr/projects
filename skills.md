@@ -5,7 +5,7 @@ permalink: /skills/
 ---
 
 # Projects Sorted by Skill
-![Sort instead by Name](index.md)
+![Sort instead by Name](/index.md)
 
 {% assign all_skills = "" | split: "" %}
 {% for project in site.projects %}
