@@ -5,7 +5,7 @@ permalink: /skills/
 ---
 
 # Projects Sorted by Skill
-[Browse everything by name instead →]({{ '/index/' | relative_url }})
+[Browse everything by name instead →]({{ '/' | relative_url }})
 
 {% assign all_skills = "" | split: "" %}
 {% for project in site.projects %}
