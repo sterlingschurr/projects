@@ -1,5 +1,10 @@
+---
+title: Machine Learning Projects
+skills: [Python, Machine Learning]
+date: 2026-07-24
+---
+
 ![Project Cover Photo](media/MachineLearningcoverimage.jpg)
-# Machine Learning Projects
 This page documents several small machine learning projects.
 
 ## Class Projects

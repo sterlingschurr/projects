@@ -3,8 +3,18 @@ layout: default
 title: Home
 ---
 
-# Projects
+# Sterling's Projects
+
+This site is still under construction, so there are still a few missing sections. Feel free to email me if there's one you'd like updated.
+
 ![alt text hello there](/assets/images/testimage.jpg)
+
+### AI Policy
+Amount and depth of AI usage will always be disclosed on project pages. AI is **never** used for any descriptive text (titles, comments, body text, etc.). Structuring this page to work with Jekyll and CSS formatting was assisted by AI.
+
+# Projects Sorted by Name
+![Sort instead by skills](skills.md)
+
 {% assign sorted_projects = site.projects | sort: 'date' | reverse %}
 {% for project in sorted_projects %}
 ### [{{ project.title }}]({{ project.url | relative_url }})
