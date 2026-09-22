@@ -1,6 +1,6 @@
 ---
 title: Electric Bike
-skills: []
+skills: [Lithium Batteries]
 date: 2024-04-04
 ---
 

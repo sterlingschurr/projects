@@ -1,6 +1,6 @@
 ---
 title: Custom LiFePO4 Electric Bicycle Battery
-skills: [DC Circuit Design, 3D Printing, 3D Modeling, Soldering]
+skills: [DC Circuit Design, 3D Printing, 3D Modeling, Soldering, Lithium Batteries]
 date: 2024-04-04
 ---
 

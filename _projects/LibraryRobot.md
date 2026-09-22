@@ -1,6 +1,6 @@
 ---
 title: Cost-Effective Educational Arduino Robot - for the David O. McKay Library
-skills: [Arduino, C, Teaching, Embedded Systems, 3D Modeling, 3D Printing]
+skills: [Arduino, C, Teaching, Embedded Systems, 3D Modeling, 3D Printing, Lithium Batteries]
 date: 2024-03-15
 ---
 
