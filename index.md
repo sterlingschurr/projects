@@ -13,7 +13,7 @@ This site is still under construction, so there are still a few missing sections
 Amount and depth of AI usage will always be disclosed on project pages. AI is **never** used for any descriptive text (titles, comments, body text, etc.). Structuring this page to work with Jekyll and CSS formatting was assisted by AI.
 
 # Projects Sorted by Name
-![Sort instead by skills](/skills.md)
+[Browse everything by skill instead →]({{ '/skills/' | relative_url }})
 
 {% assign sorted_projects = site.projects | sort: 'date' | reverse %}
 {% for project in sorted_projects %}
@@ -22,4 +22,4 @@ Amount and depth of AI usage will always be disclosed on project pages. AI is **
 
 {% endfor %}
 
-[Browse everything by skill instead →]({{ '/skills/' | relative_url }})
+
