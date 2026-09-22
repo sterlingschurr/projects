@@ -1,11 +1,10 @@
 ---
 title: Cost-Effective Educational Arduino Robot - for the David O. McKay Library
-skills: [arduino, C, teaching, embedded-systems, 3d-modeling, 3d-printing]
+skills: [Arduino, C, Teaching, Embedded Systems, 3D Modeling, 3D Printing]
 date: 2024-03-15
 ---
 
 ![Project Cover Photo](assets/images/LibraryRobotcoverimage.jpg)
-# Cost-Effective Educational Arduino Robot - for the David O. McKay Library
 Inexpensive Wheeled Robot commissioned by the David O. McKay Library for teaching robotics workshops.
 
 ## The Problem
