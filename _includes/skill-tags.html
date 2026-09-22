@@ -1,0 +1,3 @@
+<p class="skills">
+  {% for skill in include.skills %}<a href="{{ '/skills/' | relative_url }}#{{ skill | slugify }}">{{ skill }}</a>{% endfor %}
+</p>
