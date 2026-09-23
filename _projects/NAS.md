@@ -1,6 +1,6 @@
 ---
 title: Network Attached Storage and Container Application Server
-skills: [Linux, Proxmox, Docker]
+skills: [Linux, Proxmox, Docker, Networking]
 date: 2025-07-07
 ---
 
@@ -14,7 +14,7 @@ Subscriptions to cloud-based file storage like Google's Photos and Drive applica
 ![Concept diagram](assets/images/NASconceptdiagram.jpg)
 Using the power and flexibility of open-source software I plan to make a computer to solve this issue. Proxmox is known as a hypervisor, which allows multiple instances of an operating system to be loaded and running at the same time. Using these containerized instances, a robust network of computers can be simulated to run applications that serve the user's needs.
 
-### Desired specifications
+### Desired Specifications
 In particular, I needed it to accomplish these things:
 - Automatic backup of photos from my phone
 - Easy access to files from a windows computer

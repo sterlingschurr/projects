@@ -1,6 +1,6 @@
 ---
 title: Custom-Designed and Hand-Built AC-DC Power Supply
-skills: [AC Circuit Design]
+skills: [Circuit Design]
 date: 2025-03-03
 ---
 

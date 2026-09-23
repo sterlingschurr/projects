@@ -1,6 +1,6 @@
 ---
 title: Boot Buddy [In Progress]
-skills: [PCB Design, ESP32]
+skills: [PCB Design, ESP32, Embedded Systems]
 date: 2026-09-01
 ---
 

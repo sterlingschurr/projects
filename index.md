@@ -12,7 +12,7 @@ Thanks for coming to view my projects! Below is a list of them all sorted from n
 ![alt text hello there](/assets/images/testimage.jpg)
 
 ### AI Policy
-Amount and depth of AI usage will always be disclosed on project pages. AI is **never** used for any descriptive text (titles, comments, body text, etc.). Structuring this page to work with Jekyll and CSS formatting was assisted by AI.
+If used, the amount and depth of AI usage will always be disclosed on project pages. AI is **never** used for any descriptive text (titles, comments, body text, etc.). Structuring this page to work with Jekyll and CSS formatting was assisted by AI.
 
 # Projects Sorted by Date
 [Browse by skill instead →]({{ '/skills/' | relative_url }})

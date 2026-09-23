@@ -1,6 +1,6 @@
 ---
 title: Custom Autonomous Drone Flight Controller - for Hill Air Force Base
-skills: [NuttX RTOS, C++, PX4 Autopilot, SPI, I2C, USB, PCB Design, SI/PI, Altium, Keysight ADS, STM32]
+skills: [NuttX RTOS, C++, PX4 Autopilot, SPI, I2C, USB, PCB Design, SI/PI, Altium, Keysight ADS, STM32, Embedded Systems]
 date: 2026-07-24
 ---
 
@@ -17,7 +17,7 @@ The United States is heavily reliant on China for the production of electronics.
 Hill Air Force Base asked if we could produce a domestically-designed flight controller capable of autonomous flight. We inherited a half-completed project from another team that needed to be redesigned, manufactured, and tested. This project came with two sets of requirements: The required outcome of the project, and the required actions to be taken based on the previous team's work to get there.
 
 ### Base Requirements
-These are the base vision of the project.
+These are the base requirements of the project.
 - NDAA-Compliant
 - Running custom or open-source firmware
 - Compatible with common off-the-shelf solutions for ESCs, Controllers, Telemetry, etc.
@@ -39,7 +39,7 @@ We completed all of our hardware objectives. We were able to make both boards an
 
 Our software goals were unfortunately derailed by poor support from the PX4 project. While they claimed they could handle the STM32 processor we had installed, there were a few glaring issues. The largest was not supporting the SDMMC port that the controller used, which meant we could not save settings, and therefore couldn't operate the drone fully. We were working on a solution for this until the end of the project.
 
-This is a quick summary of the execution, refer to the [original fulll report](/assets/documents/flightcontrollerreport.pdf) to see everything we did.
+This is a quick summary of the execution, refer to the [original full report](/assets/documents/flightcontrollerreport.pdf) to see everything we did.
 
 ![Actual photo of the thing](/assets/images/FlightControlleractualphoto.jpg)
 

@@ -1,7 +1,7 @@
 ---
 title: Simulated 4-Bit CPU
 skills: [Hierarchical Design, Computer Architecture]
-date: 2024-04-01
+date: 2023-09-09
 ---
 
 ![Project Cover Photo](assets/images/4BitCPUcoverimage.jpg)

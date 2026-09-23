@@ -1,6 +1,6 @@
 ---
 title: RGB LED Matrix Wall Clock
-skills: [3D Printing, 3D Modeling, Embedded Systems, I2C, Arduino, C]
+skills: [3D Printing, 3D Modeling, Embedded Systems, I2C, Arduino, C, Circuit Design]
 date: 2024-09-09
 ---
 

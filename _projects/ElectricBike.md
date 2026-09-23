@@ -1,6 +1,6 @@
 ---
 title: Electric Bike
-skills: [Lithium Batteries]
+skills: [Lithium Batteries, Embedded Systems]
 date: 2024-04-04
 ---
 
