@@ -23,8 +23,10 @@ In particular, I needed it to accomplish these things:
 
 ## The Execution
 ![Wiring diagram](assets/images/NASwiringdiagram.jpg)
-How the actual construction went, and how it differed from expectations
+
+How the actual construction went, and how it differed from expectations. This page is still being written, come check back later
+
 ![Actual photo of the thing](assets/images/NASactualphoto.jpg)
 
 ## Next Steps
-what I didn't have time to do, how I could improve on this in the future
+what I didn't have time to do, how I could improve on this in the future. 
